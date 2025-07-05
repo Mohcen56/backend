@@ -1,4 +1,4 @@
-
-djangorestframework
+Django>=5.1
+ djangorestframework
 decouple
 requests
