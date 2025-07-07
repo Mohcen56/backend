@@ -30,7 +30,7 @@ backend/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/Mohcen56/backend.git>
 cd backend
 ```
 
@@ -53,7 +53,7 @@ GOLD_API_KEY=your_actual_gold_api_key
 ```bash
 python manage.py makemigrations
 python manage.py migrate
-python manage.py loaddata products.json  # Or use the custom management command
+python manage.py load_products  # Or use the custom management command
 ```
 
 ### 5. Run the development server
