@@ -88,6 +88,4 @@ python manage.py runserver
 - python-decouple
 - requests
 
-## License
 
-MIT License
