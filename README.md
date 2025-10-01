@@ -42,6 +42,7 @@ venv\Scripts\activate  # On Windows
 pip install -r requirements.txt
 ```
 
+
 ### 3. Add a `.env` file in the project root with your gold price API key
 
 ```env
